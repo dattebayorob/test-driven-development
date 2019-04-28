@@ -24,6 +24,9 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+<<<<<<< HEAD
 
 ### VS Code ###
 .vscode/
+=======
+>>>>>>> origin2/handle-errors
